@@ -1,0 +1,38 @@
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.dbmdl
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Aa][Rr][Mm]/
+[Ll]ogs/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
